@@ -47,11 +47,13 @@ const Login = () => {
         <h6 className="sorforg">Forgot password?</h6>
       </div>
       <div className="loginSub2">
-        <h5 className="sorforg"> Don't have an account? <span className="signUpaa">Sign up</span></h5>
+        <h5 className="sorforg">
+          {" "}
+          Don't have an account? <span className="signUpaa">Sign up</span>
+        </h5>
       </div>
-	  <h5 className="sorforg">Get the app.</h5>
-	<img className="appds" src={apps}/>
-
+      <h5 className="sorforg">Get the app.</h5>
+      <img className="appds" src={apps} />
     </div>
   );
 };

@@ -71,26 +71,26 @@ body {
   cursor: pointer;
   text-align: center;
 }
-.loginSub2{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 3vh;
-    width: 50vh;
-    background-color: rgb(255, 255, 255);
-    height: 8vh;
-    border-style: solid;
-    border-width: 0.5px;
-    border-color: rgb(189, 189, 189);
+.loginSub2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3vh;
+  width: 50vh;
+  background-color: rgb(255, 255, 255);
+  height: 8vh;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: rgb(189, 189, 189);
 }
-.signUpaa{
-    color:rgb(0, 132, 255);
-    font-weight:bold
+.signUpaa {
+  color: rgb(0, 132, 255);
+  font-weight: bold;
 }
-.appds{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 35vh;
-    cursor: pointer;
+.appds {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35vh;
+  cursor: pointer;
 }
