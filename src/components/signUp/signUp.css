@@ -1,0 +1,72 @@
+.regSub {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3vh;
+  width: 50vh;
+  background-color: rgb(255, 255, 255);
+  height: auto;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: rgb(189, 189, 189);
+}
+.insattr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#outlined-multiline-flexible {
+  width: 36vh;
+  height: 2.5vh !important;
+}
+.textttr {
+  margin-left: 5vh;
+}
+.signup {
+  background-color: #0066ffc9;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  width: 40vh;
+  height: 4.5vh;
+  border-radius: 5px;
+  margin-left: 5vh;
+}
+.signup:hover {
+  background-color: #0066ffa1;
+}
+
+
+.sorforgr {
+  color: rgb(80, 80, 80);
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  text-align: center;
+}
+.signupSub2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3vh;
+  width: 50vh;
+  background-color: rgb(255, 255, 255);
+  height: 8vh;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: rgb(189, 189, 189);
+}
+.loginpaa {
+  color: rgb(0, 132, 255);
+  font-weight: bold;
+}
+.appdsr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35vh;
+  cursor: pointer;
+}
