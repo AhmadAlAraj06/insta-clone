@@ -1,0 +1,119 @@
+.header1 {
+  height: 10vh;
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid;
+}
+.instaHome {
+  height: 100%;
+  width: 15vh;
+  margin-left: 18%;
+  cursor: pointer;
+}
+.sss {
+  margin-left: 41%;
+  margin-top: -8vh;
+}
+.searchbar1 {
+  width: 36vh;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  padding: 7px 15px 7px 35px;
+}
+.iconss {
+  margin-top: -5vh;
+  margin-left: 65%;
+}
+svg {
+  cursor: pointer;
+}
+.bi.bi-chat {
+  margin-left: 3vh;
+}
+.bi.bi-plus-square {
+  margin-left: 3vh;
+}
+.bi.bi-compass {
+  margin-left: 3vh;
+}
+.bi.bi-heart {
+  margin-left: 3vh;
+}
+.bi.bi-send {
+  margin-left: 3vh;
+}
+
+.profilepidd {
+  height: 5vh;
+  margin-left: 3vh;
+  cursor: pointer;
+}
+.posts {
+  width: 90vh;
+  background-color: white;
+  height: 160vh;
+  margin-left: 18%;
+}
+.profilepicpos {
+  height: 6vh;
+  cursor: pointer;
+  margin-left: 2vh;
+  margin-top: 2vh;
+}
+.profileNmae {
+  margin-left: 10vh;
+  margin-top: -4.5vh;
+  cursor: pointer;
+}
+.a3dot {
+  float: right;
+  margin-top: -3vh;
+  margin-right: 2.5vh;
+}
+.imgpost {
+  width: 100%;
+  height: 130vh;
+}
+.likescount {
+  margin-left: 3vh;
+}
+.quickadd {
+  float: right;
+  position: fixed;
+  top: 22vh;
+  right: 39vh;
+  width: 41vh;
+  height: 60vh;
+  background-color: rgb(250, 250, 250);
+}
+.profilepicadd {
+  height: 10vh;
+  margin-top: 1vh;
+  margin-left: 1h;
+}
+.profileNmaea {
+  margin-left: 12vh;
+  margin-top: -6.5vh;
+  cursor: pointer;
+  font-size: 2vh;
+}
+.switch {
+  color: rgb(0, 119, 255);
+  float: right;
+  margin-top: -2vh;
+  margin-right: 2vh;
+  cursor: pointer;
+}
+.sugg {
+  width: 100%;
+  height: 10vh;
+  margin-top: -4.5vh;
+}
+.suggestion {
+  width: 100%;
+  height: 10vh;
+  margin-top: 35vh;
+}
