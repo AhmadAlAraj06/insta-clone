@@ -7,6 +7,7 @@ import { Route } from "react-router-dom";
 import Login from "./components/login/index";
 import Register from "./components/signUp/index";
 import Home from "./components/home/index";
+import profile from "./components/profile/index";
 
 ReactDOM.render(
   <Router>
@@ -15,6 +16,7 @@ ReactDOM.render(
     <Route exact path="/login" component={Login} />
     <Route exact path="/register" component={Register} />
     <Route exact path="/home" component={Home} />
+    <Route exact path="/profile" component={profile} />
   </Router>,
   document.getElementById("root")
 );

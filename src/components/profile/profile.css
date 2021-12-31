@@ -1,0 +1,48 @@
+.header23{
+    background-color: rgba(255, 255, 255, 0.63);
+    height:100vh;
+}
+.profilepicc{
+margin-left:21%;
+margin-top:2vh;
+height:25vh;
+}
+.profileNmaep{
+    margin-left:41%;
+    font-size:4vh;
+    margin-top:-22vh;
+    color:rgb(92, 92, 92);
+}
+.btnedit{
+    margin-left:4vh;
+    cursor: pointer;
+    background-color:white;
+    border:0.1mm solid;
+    border-color:rgb(165, 165, 165);
+    border-radius:3px;
+    height:4vh;
+    width: 15vh;
+}
+.profilefolwers{
+    display: flex;
+    color:rgb(92, 92, 92);
+    margin-left:41%;
+}
+.profilebio{
+    margin-left:41%;
+
+}
+.floo{
+    margin-left:5vh;
+}
+.aahr{
+    width: 140vh;
+}
+.piccc{
+    height: 25vh;
+    width: 45vh;
+    margin-left: 3vh;
+}
+.profilepic1{
+    margin-left:31.5vh;
+}
